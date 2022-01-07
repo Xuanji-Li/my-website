@@ -1,5 +1,5 @@
 ---
-title: css note
+title: Css note
 ---
 
 # css

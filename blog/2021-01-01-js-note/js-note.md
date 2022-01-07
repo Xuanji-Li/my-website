@@ -1,5 +1,5 @@
 ---
-title: js-note-1
+title: Js-note-1
 
 ---
 

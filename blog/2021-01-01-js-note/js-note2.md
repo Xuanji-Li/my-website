@@ -1,5 +1,5 @@
 ---
-title: js note 2
+title: Js note 2
 ---
 
 # js note

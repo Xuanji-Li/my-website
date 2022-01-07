@@ -1,5 +1,5 @@
 ---
-title: command note
+title: Command note
 ---
 
 # command
@@ -34,3 +34,14 @@ title: command note
 	npx create-docusaurus@latest my-website classic
 	npm run start
 
+## react 
+
+	npm install create-react-app-g
+	create-react-app my-project
+	npm start/build
+
+## bootstrap
+
+	nom install bootstrap --save
+
+	import 'bootstrap/dist/css/bootstrap.min.css'
