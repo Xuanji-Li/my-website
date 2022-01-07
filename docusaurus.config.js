@@ -51,7 +51,7 @@ const config = {
       colorMode: {
         defaultMode: "dark",
         disableSwitch: false,
-        respectPrefersColorScheme: true,
+        respectPrefersColorScheme: false,
       },
       navbar: {
         title: 'Manny',
@@ -60,11 +60,11 @@ const config = {
           src: 'img/dog.png',
         },
         items: [
-          // {
-          //   to:'about',
-          //   position: 'left',
-          //   label: 'About',
-          // },
+          {
+            to:'about',
+            position: 'left',
+            label: 'About',
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/Xuanji-Li',
@@ -96,7 +96,7 @@ const config = {
             items: [
               {
                 label: 'About Me',
-                to: '/docs/intro',
+                to: 'about',
               },
               {
                 label: 'Blog',

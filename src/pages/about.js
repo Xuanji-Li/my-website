@@ -1,7 +1,6 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 
-
 function Hello() {
   return (
     <Layout title="Hello">
@@ -14,12 +13,14 @@ function Hello() {
           fontSize: '20px',
         }}>
         <p>
-          Edit <code>aaapages/helloReact.js</code> and save to reload.
+          不知道写点啥.
         </p>
       </div>
     </Layout>
   );
 }
+
+export default Hello;
 
 // // export default Hello;
 // import React from "react";
