@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Manny Li',
-  tagline: 'A passionate programmer',
+  title: 'Hello World',
+  tagline: 'I\'m Manny Li',
   url: 'https://your-docusaurus-test-site.com',
   
   baseUrl: '/',
