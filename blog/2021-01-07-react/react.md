@@ -237,8 +237,12 @@ export default CommentBox;
 ## 9 若改为非受控组件
 
 获取input节点的时候删掉onChange 添加
+```javascript
 <input ref={(textInput)=>{this.textInput=textInput}};
+```
+```javascript
 handleSubmit()里，this.state.value改为this.textInput.value
+```
 
 
 

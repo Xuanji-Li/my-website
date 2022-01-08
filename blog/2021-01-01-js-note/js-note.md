@@ -1,8 +1,6 @@
 ---
 title: Js-note-1
-
 ---
-
 # javascript note
 
 ## Chapter 1 Intro
@@ -10,7 +8,7 @@ title: Js-note-1
    js主要包含了三类:   
    + ECMAScript:核心.  
    + DOM：文档对象模型.    
-   + BOM：浏览器对戏那个模型.   
+   + BOM：浏览器对戏那个模型.s   
 
 ![1](1.png)
 
