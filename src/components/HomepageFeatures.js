@@ -4,30 +4,30 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: ' ',
+    title: 'Full stack developer ',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-         
+        Knowledgeable Front End Developer adept at creating successful websites that meet customer needs. Specializing in collaborating with customers to gather requirements, produce plans and improve designs for usability and functionality
       </>
     ),
   },
   {
-    title: ' ',
+    title: ' Powered by Interests',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-         
+       I love building cool, fun, meaningful or even meaningless things with tech, whether that be websites, applications or games.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'UOA',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Recently graduated from University of Adelaide, Accomplished product manager Intern during master degree program with hands-on experience.
+        Detail-oriented with success supporting team and inventory management.
       </>
     ),
   },

@@ -17,9 +17,9 @@ function Hello() {
 
         <h2 className={styles.underlineTitle}>About Me</h2>
         
-        <div className={styles.bodyAbout}>
+        <p className={styles.bodyAbout}>
           hello
-        </div>
+        </p>
 
 
       </div>
