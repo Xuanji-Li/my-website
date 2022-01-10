@@ -1,0 +1,32 @@
+.underlineTitle{
+    /* color:pink; */
+    font-size: 40px;
+    border-bottom: 4px solid #0f9d58;
+    width :200px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .bodyAbout{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 415px;
+    /* width:200px; */
+  }
+  .bodyAboutDetail{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 415px;
+  }
+
+  .experience-container{
+      display:flex;
+  }
+  .experience-title{
+    font-size: 30px;
+    border-bottom: 4px solid #ffb84e;
+    width :160px;
+    text-align: center;
+    height:40px;
+    margin-right:40px;
+    margin-left:250px;
+  }
