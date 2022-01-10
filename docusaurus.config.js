@@ -82,7 +82,7 @@ const config = {
             position:'right',
           },
           {
-            to: '/pdf/resume.PDF',
+            href: '../pdf/resume.PDF',
             label: "Resume",
             position: "right",
           },
